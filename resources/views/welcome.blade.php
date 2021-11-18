@@ -64,6 +64,7 @@
         </style>
     </head>
     <body>
+        <h1 style="color: #000000;"> DENNIS ALEJANDRO MARTINEZ MENDOZA</h1><br/>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
